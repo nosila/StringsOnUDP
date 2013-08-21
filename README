@@ -1,8 +1,0 @@
-StringsOnUDP
-
-This tool was created to send strings continuously to a client, through
-UDP, using dynamic commands that can be added in a .cfg file.
-
-You can find more info in my blog post:
-
-http://dementedVice.wordpress.com/2011/12/12/stringsonudp/
